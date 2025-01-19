@@ -6,4 +6,4 @@
 * [anchor - a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts](https://github.com/coral-xyz/anchor)
 * [solita - Solana IDL to API generator.](https://github.com/metaplex-foundation/solita)
 * [steel -  a new Solana smart contract framework. It provides a library of helper functions, macros, and code patterns for building safe and maintainable smart contracts on the Solana blockchain](https://github.com/regolith-labs/steel)
-
+* [solana-project-template - A template for vanilla Solana programs and their clients](https://github.com/metaplex-foundation/solana-project-template)
