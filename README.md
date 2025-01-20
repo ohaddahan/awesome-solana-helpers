@@ -8,3 +8,4 @@
 * [steel -  a new Solana smart contract framework. It provides a library of helper functions, macros, and code patterns for building safe and maintainable smart contracts on the Solana blockchain](https://github.com/regolith-labs/steel)
 * [solana-project-template - A template for vanilla Solana programs and their clients](https://github.com/metaplex-foundation/solana-project-template)
 * [Confidential Transfer Sample](https://github.com/solana-developers/Confidential-Transfer-Sample)
+* [token bonding curve](https://github.com/rally-dfs/token-bonding-curve/tree/main)
